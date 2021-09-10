@@ -32,3 +32,4 @@ driver.find_element_by_xpath("//div[contains(text(),'8')]").click()
 driver.find_element_by_xpath("//*[@id='appContainer']/div[2]/div/div/div[2]/div/div[3]/div/div[9]/div[1]/div[1]/div").click()
 driver.implicitly_wait(10)
 driver.find_element_by_xpath("//*[@id='appContainer']/div[2]/div/div/div[2]/div/div[3]/div/div[9]/div[1]/div[1]/a/div").click()
+#done succesfully
